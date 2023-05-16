@@ -6,3 +6,5 @@ Pillow
 psycopg2-binary==2.9.5
 drf_yasg
 django-cors-headers
+gunicorn
+python-decouple==3.8
